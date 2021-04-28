@@ -1,2 +1,3 @@
 # pytorch-horovod
-Pytorch with Horovod
+Pytorch with Horovod.
+Also, change Pickle protocol version.
